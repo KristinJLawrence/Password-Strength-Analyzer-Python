@@ -1,4 +1,4 @@
-# Password Strength Checker
+# Password Strength Analyzer (Python)
 
 ## Description
 This project is a Python-based password strength checker.  
@@ -27,4 +27,5 @@ This script demonstrates how password policies can be enforced programmatically.
 ## Future Improvements
 - Add password entropy calculation
 - Hide password input
+
 - Log weak password attempts
